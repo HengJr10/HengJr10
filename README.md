@@ -68,7 +68,11 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,mysql,postgres" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,react,nextjs,tailwind,nodejs,express,mysql,postgres" />
+</p>
+
+<p align="center">
+  HTML • CSS • JavaScript • PHP • Laravel • React • Next.js • Tailwind CSS • Node.js • Express.js • MySQL • PostgreSQL
 </p>
 
 ## 🔥 Streak
