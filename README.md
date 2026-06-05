@@ -31,9 +31,7 @@
 ## 🛠 Tech Stack
 
 ### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,tailwind,nextjs" />
-</p>
+<p> <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nextjs" /> </p>
 ### Backend
 <p>
   <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express" />
