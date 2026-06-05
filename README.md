@@ -20,14 +20,15 @@
 
 ## 🧑‍💻 About Me
 
-| | |
-|:--|:--|
-| 🔭 **Working on** | YOUR_PROJECT |
-| 🌱 **Learning** | YOUR_LEARNING |
-| 📍 **Location** | YOUR_CITY, YOUR_COUNTRY |
-| 💼 **Role** | YOUR_ROLE |
-| 📫 **Email** | YOUR_EMAIL |
-| ⚡ **Fun fact** | YOUR_FUN_FACT |
+|                   |                                                                                         |
+| :---------------- | :-------------------------------------------------------------------------------------- |
+| 🔭 **Working on** | Learning Management System (LMS) and Full-Stack Web Applications                        |
+| 🌱 **Learning**   | Next.js, TypeScript, Docker, and Cloud Technologies                                     |
+| 📍 **Location**   | Phnom Penh, Cambodia                                                                    |
+| 💼 **Role**       | Full-Stack Web Developer                                                                |
+| 📫 **Email**      | sokhengten7@gmail.com                                 |
+| ⚡ **Fun fact**    | I enjoy building scalable web applications, mobile apps, and exploring new technologies |
+
 
 ## 🛠 Tech Stack
 
