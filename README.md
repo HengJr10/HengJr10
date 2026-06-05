@@ -107,18 +107,13 @@
 
 ![Frontend:HTML/CSS/Javascript/React JS/Tailwind/Next.js Backend:PHP/Laravel/Node.js + Express.js/RESTful APIs Databases:MySQ/PostgreSQL](https://img.shields.io/badge/-Frontend%3AHTML%2FCSS%2FJavascript%2FReact%20JS%2FTailwind%2FNext.js%20Backend%3APHP%2FLaravel%2FNode.js%20%2B%20Express.js%2FRESTful%20APIs%20Databases%3AMySQ%2FPostgreSQL-6E40C9?style=for-the-badge&logo=frontendhtmlcssjavascriptreactjstailwindnextjsbackendphplaravelnodejsexpressjsrestfulapisdatabasesmysqpostgresql&logoColor=white)
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/HengJr10/HengJr10/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation">
-</p>
 
 ## ✨ Quote
 
-> YOUR_QUOTE
+> 🚀 "First, solve the problem. Then, write the code."
 
 ## 🏅 Badges
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HengJr10&theme=transparent&no-frame=true&row=1&column=6"/>
+  <img src="[https://github-profile-trophy.vercel.app/?username=HengJr10&theme=transparent&no-frame=true&row=1&column=6](https://www.pngfind.com/pngs/m/642-6422612_magento-developer-badges-sign-hd-png-download.png)"/>
 </p>
