@@ -30,36 +30,29 @@
 
 ## 🛠 Tech Stack
 
-### Frontend
-<p>
+### 🎨 Frontend Development
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,tailwind,nextjs" />
 </p>
-### Backend
-<p>
+
+### ⚙️ Backend Development
+<p align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express" />
 </p>
 
-## 🗄️ Database
-
+### 🗄️ Databases
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 </p>
 
-## 📱 Mobile Development
-
+### 📱 Mobile Development
 <p align="center">
   <img src="https://skillicons.dev/icons?i=androidstudio,java,kotlin" />
 </p>
 
-## ☁️ Tools & DevOps
-
+### ☁️ Tools & DevOps
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" />
-</p>
-
-### Version Control
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github" />
 </p>
 ## 📊 GitHub Stats
 
