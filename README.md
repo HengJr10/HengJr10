@@ -61,10 +61,6 @@
   <img height="160" src="https://github-readmeapp.vercel.app/api/top-langs/?username=HengJr10&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9"/>
 </p>
 
-## 💡 Top Languages
-
-## 📊 Languages & Technologies
-
 ## 📊 Most Used Languages
 
 <p align="center">
