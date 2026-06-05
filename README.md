@@ -31,15 +31,30 @@
 ## 🛠 Tech Stack
 
 ### Frontend
-<p> <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nextjs" /> </p>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,tailwind,nextjs" />
+</p>
 ### Backend
 <p>
   <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express" />
 </p>
 
-### Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+## 🗄️ Database
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</p>
+
+## 📱 Mobile Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=androidstudio,java,kotlin" />
+</p>
+
+## ☁️ Tools & DevOps
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" />
 </p>
 
 ### Version Control
