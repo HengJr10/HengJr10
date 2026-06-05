@@ -65,14 +65,14 @@
 
 ## 📊 Languages & Technologies
 
+## 📊 Most Used Languages
+
 <p align="center">
   <img src="https://github-readmeapp.vercel.app/api/top-langs/?username=HengJr10&layout=donut&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9"/>
 </p>
 
 <p align="center">
-  🎨 <b>Frontend Development</b> •
-  ⚙️ <b>Backend Development</b> •
-  🗄️ <b>Databases</b>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,mysql,postgres" />
 </p>
 
 ## 🔥 Streak
