@@ -112,8 +112,8 @@
 
 > 🚀 "First, solve the problem. Then, write the code."
 
-## 🏅 Badges
+## 🏅 GitHub Trophies
 
 <p align="center">
-  <img src="[https://github-profile-trophy.vercel.app/?username=HengJr10&theme=transparent&no-frame=true&row=1&column=6](https://www.pngfind.com/pngs/m/642-6422612_magento-developer-badges-sign-hd-png-download.png)"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=HengJr10&theme=tokyonight&no-frame=true&margin-w=15" />
 </p>
