@@ -112,8 +112,8 @@
 
 > 🚀 "First, solve the problem. Then, write the code."
 
-## 🏅 GitHub Trophies
+## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HengJr10&theme=tokyonight&no-frame=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=HengJr10&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
 </p>
